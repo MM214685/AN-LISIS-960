@@ -12,8 +12,8 @@ import io
 import plotly.express as px
 
 # --- Configuración de la Web ---
-st.set_page_config(page_title="Dashboard Rentabilidad Antigua GEMA", layout="wide")
-st.title("📊 Cuadro de Mandos: Rentabilidad Antigua GEMA")
+st.set_page_config(page_title="ANÁLISIS 960 - LEVANTE", layout="wide")
+st.title("📊 ANÁLISIS 960 - LEVANTE")
 
 st.markdown("""
 Sube tu archivo de datos para visualizar el rendimiento y generar el **Excel automatizado** con todas las reglas de negocio.
